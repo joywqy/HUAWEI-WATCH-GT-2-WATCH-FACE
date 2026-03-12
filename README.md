@@ -9,5 +9,3 @@
 
 [点击此处下载](https://github.com/joywqy/HUAWEI-WATCH-GT-2-WATCH-FACE/blob/master/Termoe/Ter2.hwt)
 
-[点击此处下载](https://github.com/AngelaCooljx/HUAWEI-WATCH-GT-2_watchface_selfmade/raw/main/Paimon/Paimon.hwt)
-[点击此处下载](https://github.com/joywqy/HUAWEI-WATCH-GT-2-WATCH-FACE/blob/master/Termoe/Ter2.hwt)
