@@ -1,3 +1,4 @@
+**素材来源于网络，本表盘仅供学习交流，严禁用于商业用途**
 ### Termoe
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/46959969-f6a5-48db-999f-71711cf5d22c" />
 [点击此处下载](https://github.com/joywqy/HUAWEI-WATCH-GT-2-WATCH-FACE/blob/master/Termoe/Termoe%20Project.hwt)
