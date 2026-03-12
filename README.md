@@ -6,3 +6,5 @@
 ### ter2
 <img width="1366" height="730" alt="image" src="https://github.com/user-attachments/assets/0a43686d-f2fa-4cfa-867d-dc8f9a8df80b" />
 [点击此处下载](https://github.com/joywqy/HUAWEI-WATCH-GT-2-WATCH-FACE/blob/master/Termoe/Ter2.hwt)  
+
+[点击此处下载](https://github.com/AngelaCooljx/HUAWEI-WATCH-GT-2_watchface_selfmade/raw/main/Paimon/Paimon.hwt)
